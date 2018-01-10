@@ -1,0 +1,23 @@
+{
+  "name": "vue-mat",
+  "version": "0.0.0",
+  "description": "Vue js material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmeshpipariya/vue-mat.git"
+  },
+  "keywords": [
+    "Vue",
+    "Material"
+  ],
+  "author": "Dharmesh Pipariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmeshpipariya/vue-mat/issues"
+  },
+  "homepage": "https://github.com/dharmeshpipariya/vue-mat#readme"
+}
